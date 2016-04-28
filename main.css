@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#result {
+    margin-top: 100px;
+    font-size: 48px;
+}
+
+ul {
+    padding: 0;
+}
+
+ul li{
+    display: inline-block;
+    text-decoration:none;
+    margin: 10px;
+}
+
+button{
+    font-size: 18px;
+    width: 32px;
+    height: 32px
+}
